@@ -51,9 +51,5 @@
   <img height="170" src="https://streak-stats.demolab.com?user=Yurisousach&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yurisousach&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
 <!-- Rodapé animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e6fd9,100:0a0f1f&height=120&section=footer"/>
