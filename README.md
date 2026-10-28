@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a12,55:1a0033,100:00f0ff&height=230&section=header&text=YURI%20CHAGAS&fontSize=64&fontColor=00f0ff&fontAlignY=42&stroke=ff2a6d&strokeWidth=1&desc=IT%20SUPPORT%20%E2%80%A2%20INFRASTRUCTURE%20%E2%80%A2%20AI-DRIVEN%20DEVELOPMENT&descSize=15&descAlignY=64&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,60:1a0033,100:0a0a12&height=190&section=header&text=YURI%20CHAGAS&fontSize=62&fontColor=00f0ff&fontAlignY=45&stroke=ff2a6d&strokeWidth=1.2&desc=IT%20SUPPORT%20%E2%80%A2%20INFRASTRUCTURE%20%E2%80%A2%20AI-DRIVEN%20DEVELOPMENT&descSize=15&descAlignY=72&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+inicializando+sistema...;%3E+Assistente+de+TI+%7C+Suporte+e+Infraestrutura;%3E+Fundador+da+ChagasTech;%3E+Construindo+solu%C3%A7%C3%B5es+com+IA;%3E+status%3A+online" alt="terminal"/>
@@ -30,19 +30,14 @@ aprendendo:  [lógica de programação, redes, segurança da informação]
 ### ▸ stack.tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows-0a0a12?style=for-the-badge&logo=windows&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0a0a12?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0a0a12?style=for-the-badge&logo=intellijidea&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/Git-0a0a12?style=for-the-badge&logo=git&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/GitHub-0a0a12?style=for-the-badge&logo=github&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/Vercel-0a0a12?style=for-the-badge&logo=vercel&logoColor=00F0FF"/>
+  <img src="https://skillicons.dev/icons?i=windows,vscode,idea,git,github,vercel&theme=dark&perline=6"/>
 </p>
 
 ### ▸ ai.modules
 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude-0a0a12?style=for-the-badge&logo=claude&logoColor=FF2A6D"/>
-  <img src="https://img.shields.io/badge/ChatGPT-0a0a12?style=for-the-badge&logo=openai&logoColor=FF2A6D"/>
+  <img src="https://img.shields.io/badge/%E2%97%86%20ChatGPT-0a0a12?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Gemini-0a0a12?style=for-the-badge&logo=googlegemini&logoColor=FF2A6D"/>
   <img src="https://img.shields.io/badge/NotebookLM-0a0a12?style=for-the-badge&logo=google&logoColor=FF2A6D"/>
 </p>
@@ -59,7 +54,7 @@ aprendendo:  [lógica de programação, redes, segurança da informação]
 ### ▸ connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/chagastech/"><img src="https://img.shields.io/badge/LinkedIn-0a0a12?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/></a>
+  <a href="https://www.linkedin.com/in/chagastech/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN%20%E2%86%97-00F0FF?style=for-the-badge&labelColor=0a0a12"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00f0ff,45:1a0033,100:0a0a12&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,50:1a0033,100:0a0a12&height=70&section=footer&text=%2F%2F%20end%20of%20transmission&fontSize=16&fontColor=ff2a6d&fontAlignY=55"/>
